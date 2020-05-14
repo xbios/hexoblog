@@ -99,4 +99,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/xbios/xblog.github.io
+  repo: https://github.com/xbios/hexoblog.github.io
