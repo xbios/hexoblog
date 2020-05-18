@@ -8,6 +8,7 @@ menu:
   Home: / || fa fa-home
   Archives: /archives/ || fa fa-archive
   Tags: /tags/ || fa fa-tags
+  Js: /Js/ || fa fa-ticket
   Categories: /categories/ || fa fa-folder-open
   Link: /link/ || fa fa-link
   About: /about/ || fa fa-heart
@@ -63,7 +64,7 @@ algolia_search:
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}" # if there are no result
-    hits_stats: '${hits} results found in ${time} ms'
+    hits_stats: "${hits} results found in ${time} ms"
 
 # Local search
 # Please see doc for more details: https://docs.jerryc.me/config.html#本地搜索
@@ -155,7 +156,7 @@ lodding_bg:
 # A simple 404 page
 error_404:
   enable: false
-  subtitle: 'Page Not Found'
+  subtitle: "Page Not Found"
   background:
 
 post_meta:
@@ -443,7 +444,7 @@ canvas_ribbon_piao:
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
   enable: false
-  color: '0,0,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+  color: "0,0,255" #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.7 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
   count: 99 # the number of lines, default: 99.
@@ -484,7 +485,7 @@ beautify:
   enable: false
   field: post # site/post
   title-prefix-icon: '\f0c1'
-  title-prefix-icon-color: '#F47466'
+  title-prefix-icon-color: "#F47466"
 
 # 全局字體
 font:
@@ -590,11 +591,11 @@ translate:
   #延遲時間,若不在前, 要設定延遲翻譯時間, 如100表示100ms,默認為0
   translateDelay: 0
   #博客網址
-  cookieDomain: 'https://xxx/'
+  cookieDomain: "https://xxx/"
   #當文字是簡體時，按鈕顯示的文字
-  msgToTraditionalChinese: '繁'
+  msgToTraditionalChinese: "繁"
   #當文字是繁體時，按鈕顯示的文字
-  msgToSimplifiedChinese: '簡'
+  msgToSimplifiedChinese: "簡"
 
 #閲讀模式
 readmode:
@@ -633,8 +634,8 @@ fancybox:
 snackbar:
   enable: false
   position: bottom-left
-  bg_light: '#49b1f5' #light mode時彈窗背景
-  bg_dark: '#2d3035' #dark mode時彈窗背景
+  bg_light: "#49b1f5" #light mode時彈窗背景
+  bg_dark: "#2d3035" #dark mode時彈窗背景
 
 #百度推送
 baidu_push:

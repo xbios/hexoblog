@@ -1,12 +1,6 @@
 ---
-title: Nuxt
-author: Erol K.
-date: 2020-05-15 02:18:36
-tags: [vue]
-categories:
-  - [Cat1, Cat1.1]
-  - [Cat2]
-  - [Cat3]
+title: Js (Javascript)
+date: 2020-05-17 14:47:15
 ---
 
 # [TypeScript, Looping through a dictionary](https://stackoverflow.com/questions/16174182/typescript-looping-through-a-dictionary)
@@ -19,3 +13,10 @@ for (let key in myDictionary) {
   // Use `key` and `value`
 }
 ```
+
+{% codeblock lang:javascript  %}
+alert("Hello");
+var myVar = "Hello"
+{% endcodeblock %}
+
+{% youtube I07XMi7MHd4?t=296  %}
