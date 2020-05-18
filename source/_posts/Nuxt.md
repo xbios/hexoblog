@@ -9,13 +9,6 @@ categories:
   - [Cat3]
 ---
 
-# [TypeScript, Looping through a dictionary](https://stackoverflow.com/questions/16174182/typescript-looping-through-a-dictionary)
+# The Intuitive Vue Framework
 
-To loop over the key/values, use a `for in` loop:
-
-```js
-for (let key in myDictionary) {
-  let value = myDictionary[key];
-  // Use `key` and `value`
-}
-```
+Build your next Vue.js application with confidence using NuxtJS. An open source framework making web development simple and powerful.
