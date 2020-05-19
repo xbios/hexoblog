@@ -10,7 +10,7 @@ menu:
   Tags: /tags/ || fa fa-tags
   Categories: /categories/ || fa fa-folder-open
   Js: /Js/ || fa fa-ticket
-  # Link: /link/ || fa fa-link
+  Link: /link/ || fa fa-link
   About: /about/ || fa fa-heart
   List||fa fa-list:
     - Music || /music/ || fa fa-music
