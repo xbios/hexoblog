@@ -1,7 +1,7 @@
 ---
-title: a
+title: Hexo js CLI
 date: 2020-05-18 00:36:13
-tags:
+tags: [hexojs]
 ---
 
 # post

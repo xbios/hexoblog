@@ -19,4 +19,4 @@ alert("Hello");
 var myVar = "Hello"
 {% endcodeblock %}
 
-{% youtube I07XMi7MHd4?t=296  %}
+<!-- {% youtube I07XMi7MHd4?t=296  %} -->

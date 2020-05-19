@@ -8,9 +8,9 @@ menu:
   Home: / || fa fa-home
   Archives: /archives/ || fa fa-archive
   Tags: /tags/ || fa fa-tags
-  Js: /Js/ || fa fa-ticket
   Categories: /categories/ || fa fa-folder-open
-  Link: /link/ || fa fa-link
+  Js: /Js/ || fa fa-ticket
+  # Link: /link/ || fa fa-link
   About: /about/ || fa fa-heart
   List||fa fa-list:
     - Music || /music/ || fa fa-music

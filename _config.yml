@@ -100,3 +100,7 @@ theme: Butterfly
 deploy:
   type: git
   repo: https://github.com/xbios/hexoblog.github.io
+
+auto_category:
+  enable: true
+  depth:

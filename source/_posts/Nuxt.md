@@ -1,12 +1,12 @@
 ---
-title: Nuxt
+title: Nuxt Framework
 author: Erol K.
 date: 2020-05-15 02:18:36
-tags: [vue]
+tags: [vue, js]
 categories:
-  - [Cat1, Cat1.1]
-  - [Cat2]
-  - [Cat3]
+  - [WebApp, Vue]
+  - [API]
+  - [UI Framework]
 ---
 
 # The Intuitive Vue Framework
